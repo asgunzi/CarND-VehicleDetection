@@ -175,7 +175,7 @@ Process from 20 to 24 seconds
 
 To save a (problematic) image of the clip
 
-#Save clip 
+Save clip 
 myclip = clip1.to_ImageClip(t=’00:00:06') # frame at t=1 hour.
 myclip.save_frame(“frame06.jpeg”)
 
